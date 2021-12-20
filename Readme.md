@@ -41,5 +41,10 @@ TBU
 ### Worth watching talks about Svelte:
 [Rich Harris - Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
 
+### Medium Links
+
+[why-you-should-consider-using-svelte](https://medium.com/geekculture/why-you-should-consider-using-svelte-b1268140e481w)
+
+
 ### Books about Svelte
 [The Svelte Handbook by Flavio Copes](https://www.freecodecamp.org/news/the-svelte-handbook/)
