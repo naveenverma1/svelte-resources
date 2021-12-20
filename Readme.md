@@ -35,8 +35,6 @@ Feel free to submit issues, pull requests with the content you used/use to learn
 [Learn Svelte by Svelte Master (Scrimba)](https://scrimba.com/course/glearnsvelte/enrolled)
 [Svelte.js -The Complete Guide by Academind (Udemy)](https://www.udemy.com/course/sveltejs-the-complete-guide/)
 
-### Worth reading blog posts:
-TBU
 
 ### Worth watching talks about Svelte:
 [Rich Harris - Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
