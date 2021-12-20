@@ -41,7 +41,7 @@ Feel free to submit issues, pull requests with the content you used/use to learn
 
 ### Medium Links
 
-[why-you-should-consider-using-svelte](https://medium.com/geekculture/why-you-should-consider-using-svelte-b1268140e481w)
+[why-you-should-consider-using-svelte](https://medium.com/geekculture/why-you-should-consider-using-svelte-b1268140e481w/)
 
 
 ### Books about Svelte
